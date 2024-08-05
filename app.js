@@ -10,7 +10,7 @@ function render() {
   const title = (
     <React.Fragment>
       <h1 className="title" id="title">
-        {" "}
+       
         Bonjour le monde<span>{numberFormat(n)}</span>
       </h1>
       <ul>
